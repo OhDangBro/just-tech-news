@@ -1,4 +1,4 @@
-* {
+/* * {
     box-sizing: border-box;
   }
   
@@ -150,6 +150,17 @@
     padding: 1%;
     margin-bottom: 1%;
   }
+
+  body.wrapper {
+    background-color: #197d0f;
+    
+
+  }
+  wrapper {
+    background-color: #197d0f;
+    
+
+  }
   
   .comment:nth-child(odd) {
     background-color: #fff5eb;
@@ -175,4 +186,4 @@
     justify-content: center;
     padding: 1%;
     font-size: 110%;
-  }
+  } */
